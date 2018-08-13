@@ -1,6 +1,6 @@
 #! /bin/bash
 if [[ -z "${UUID}" ]]; then
-  UUID="4890bd47-5180-4b1c-9a5d-3ef686543112"
+  UUID="a9c8f63f-08a1-460b-8286-3830e0eac453"
 fi
 
 if [[ -z "${AlterID}" ]]; then
@@ -12,7 +12,7 @@ if [[ -z "${V2_Path}" ]]; then
 fi
 
 if [[ -z "${V2_QR_Path}" ]]; then
-  V2_QR_Code="1234"
+  V2_QR_Code="9988"
 fi
 
 rm -rf /etc/localtime
